@@ -1,2 +1,12 @@
 Hello every one,
     This is only demo for testing 
+String hungrry="";
+hungry="yes";
+if(hungry.equals("yes"))
+{
+System.out.println("Eat Samosa");
+}
+else
+{
+System.out.println("Do your work");
+}
